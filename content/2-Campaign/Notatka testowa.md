@@ -2,4 +2,6 @@
 publish: true
 ---
 
-Tutaj jest coś. Jebać real
+[[Notatka testowa|Tutaj]] jest coś. |
+# Jebać real
+### lubie kotki
