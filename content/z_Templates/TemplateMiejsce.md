@@ -1,0 +1,4 @@
+---
+NoteIcon: settlement
+---
+Nazwa - 
