@@ -1,8 +1,0 @@
-- Życie
-- Śmierć
-	- 2 siostry?
-- Czas
-- Porządek
-- Chaos
-- Wojna
-	- każda domena czarów należy do danego boga i kazdy wyznawca danego boga ma ułatwienie przy rzucaniu czarów z danej szkoły
