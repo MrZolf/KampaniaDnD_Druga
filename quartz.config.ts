@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pl-PL",
-    baseUrl: "mrzolf.github.io/KampaniaDnD_Druga",
+    baseUrl: "/KampaniaDnD_Druga",
     ignorePatterns: ["private", "templates", ".obsidian", ".quartz-cache"],
     defaultDateType: "modified",
     theme: {
