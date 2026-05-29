@@ -2,6 +2,52 @@
 publish: true
 ---
 
+
+
+
+
+<span style="float: left; font-size: 4.5em; line-height: 0.8em; padding-top: 4px; padding-right: 8px; font-family: serif; font-weight: bold; color: var(--secondary);">P</span>owietrze było gęste i przesiąknięte odorem krwi zmieszanej ze Strenolinem. Bruk mostu zaścielony był jednolitą masą ciał. Leżeli jedno na drugim, splątani w bezładne warstwy, tak gęsto, że każdy krok oznaczał nadepnięcie na czyjąś dłoń lub twarz. 
+
+Srebrny medalion z wizerunkiem ciemnowłosej kobiety, spoczywający na bladoniebieskim mundurze Cassiusa, wyróżniał go na tle reszty żołnierzy w jego legunie. Wiedział, że przed nim maszeruje oddział Velonów, jednakże gęsta mgła oraz wszechogarniająca ciemność uniemożliwiała zobaczenie czegokolwiek oddalonego o więcej niż jakieś trzydzieści stóp. 
+
+Jego ręce były zdrętwiałe do granic bólu. Nie czuł palców, tylko pulsujące mrowienie w przedramionach i ostrą, palącą reakcję mięśni, które odmawiały posłuszeństwa. Nieporęczny samopał ciążył niczym kamień, a jednak wciąż pozostawał w pozycji gotowej do strzału. Mimo to szedł dalej – jako pierwszoliniowy żołnierz w swoim legunie nie mógł sobie pozwolić na okazanie słabości. Jego frontowi kompanii, uzbrojeni naprzemiennie w samopały i piki, maszerowali w głąb ciemności ramię w ramię z nim.
+
+***
+
+> *„Ciemność”... Słowo, które jeszcze kilka tygodni temu brzmiałoby całkowicie absurdalnie* — rozmyślał młody strzelec. — *Dziś jest faktem. **CIEMNOŚĆ** jest faktem. Jak do tego doszło? Dlaczego wrogie królestwo zaatakowało Thessarion? Tak nagle? Po trwającym setki lat sojuszu... I co się stało z najmniejszym słońcem? Czy to ich sprawka? Wszystko wydarzyło się tak szybko...*
+
+Miliony pytań zdawały się zakrzątać głowę Cassiusa, odpowiedzi jednak nie nadchodziły. Z zamyślenia wyrwał go nagle głośny, przeciągły dźwięk rogu.
+
+— Stawać! Zająć szyk obronny! Przygotować się do salwy! — wykrzyczał nagle głównodowodzący legatus, znajdujący się w centralnej części linii, tuż obok Cassiusa.
+
+Cały legun zatrzymał się natychymast. Pierwsza linia uklękła, przygotowując samopały i piki, torując pole ostrzału dla drugiej i trzeciej linii. Porozsiewani po całej długości formacji magusi wysunęli się krok do przodu. Ich dłonie zaczęły kreślić w powietrzu skomplikowane runy, a na bruku oraz ciałach poległych wcześniej strzelców zatańczyły zapalające się glify. 
+
+Through ułamek sekundy przestrzeń przed nimi rozbłysła żywoczerwonym światłem. Serce Cassiusa zabiło mocniej. Starał się nie patrzeć wprost w mrok. Rozglądając się na boki, widział tylko, jak linia, w której stał, niknie w nicości, a twarze widocznych kompanów ogarnia strach zmieszany z wściekłością i głębokim niezrozumieniem. Wszyscy w napięciu i absolutnej ciszy wyczekiwali tego, co przyniosą następne minuty.
+
+Nagle z oddali dobiegła salwa. Setki samopałów Velonów odpaliły w tym samym czasie. Chwilę po tym nastąpiła kolejna, potem następna... i nastała cisza. 
+
+Legatus pozostawał niewzruszony, w każdej chwili gotowy wydać własny rozkaz do otwarcia ognia. Tymczasem z tylnych linii leguna dobiegły paniczne krzyki, które szybko zamilkły, zduszone i zamienione w rzężące jęki bólu. Po kilku chwilach z ciemności zaczęli wyłaniać się pierwsi Veloni. Nie szli jednak jako spójny, pięknie odstrojony oddział – były to nędzne niedobitki. Pojedynczy żołnierze z kirysami ochlapanymi krwią swoich poległych towarzyszy. Niegdyś dumni, teraz uciekali w popłochu, niczym szczury z tonącego okrętu. 
+
+Zaczęli przeciskać się przez ciasno ustawiony mur oddziału Cassiusa, byle tylko uciec na tyły. Jeden z rannych, z całkowicie rozszarpaną lewą ręką, podbiegł prosto do legatusa, desperacko chcąc zdać raport.
+
+— Jest ich zbyt wielu! Nie mają strachu w swoich sercach, szarżują prosto przez nasze salwy, nadziewają się na bagnety i idą dalej! Uciekajcie, nie macie szans! — wykrzykiwał w potwornym bólu i zmęczeniu.
+
+Okoliczni żołnierze zbledli jeszcze bardziej, słysząc te słowa, a jęki i odgłosy szamotaniny na tyłach jeszcze przybrały na sile. W pierwszych liniach jednak nikt nawet nie pomyślał o odwrocie. Legatus błyskawicznie dobył swojego rapieru i przyłożył jego ostry sztych prosto do gardła ocalałego strzelca.
+
+— Zamilcz! — zagrzmiał oficer, a jego głos poniósł się po linii. — Jeszcze jedno słowo, a posądzę cię o zdradę i herezję! V Legun Strzelców Thessariońskich nigdy nie okryje się hańbą i nie ucieknie z pola bitwy. Odmaszerować na tyły, czym prędzej!
+
+Velon skulił się, zamilkł i bez słowa wbił się w głąb oddziału. Ledwo ostatni z uciekinierów zdołał schować się za plecami formacji, gdy z mgły ponownie zaczęło się coś wyłaniać.
+
+Postacie. Jakby stworzone z samej, namacalnej ciemności. Kształtem przypominały potworne krzyżówki ludzi z dzikimi bestiami. Jedynie jarzące się lekkim, białym blaskiem ślepia pozwalały odróżnić je od otaczającego mroku. Cienie nie pędziły, nie atakowały gwałtownie – po prostu powoli, złowrogo wyłaniały się zza czarnej zasłony.
+
+Cassius, napinając resztki sił, utrzymał ciężki samopał w jednej ręce. Druga powędrowała do szyi. Chwycił wiszący tam medalion, ucałował go zimny metal i złożył się do strzału.
+
+— Pierwsza linia!... — ryk legatusa przeciął pełne napięcia powietrze. — **OGNIA!**
+
+
+
+
+
 Powietrze było gęste i przesiąknięte odorem krwi zmieszanej ze Strenolinem. Bruk mostu zaścielony był jednolitą masą ciał. Leżeli jedno na drugim, splątani w bezładne warstwy, tak gęsto, że każdy krok oznaczał nadepnięcie na czyjąś dłoń lub twarz. Srebrny medalion z wizerunkiem ciemnowłosej kobiety wyróżniał, który spoczywał na bladoniebieskim mundurze Cassiusa wyróżniał go na tle reszty żołnierzy w jego legunie. Wiedział on, że przed nim maszeruje oddział Velonów jednakże gęsta mgła oraz wszechogarniająca ciemność uniemożliwiała zobaczenie czegokolwiek oddalonego o więcej niż jakieś trzydzieści stóp. Jego ręce były zdrętwiałe do granic bólu. Nie czuł palców, tylko pulsujące, mrowienie w przedramionach i ostrą, palącą reakcję mięśni, które odmawiały posłuszeństwa. Nieporęczny samopał ciążył niczym kamień, a jednak wciąż pozostawał w pozycji gotowej do strzału. Mimo to szedł dalej,  jako pierwszoliniowy żołnierz w swoim legunie nie mógł sobie pozwolić na okazanie słabości. Jego frontowi kompanii, uzbrojeni naprzemiennie w samopały i piki tak samo jak on maszerowali w głąb ciemności.
 — "Ciemność" słowo które jeszcze kilka tygodni temu brzmiało by całkowicie absurdalnie — rozmyślał młody strzelec — dziś jest faktem, CIEMNOŚĆ jest faktem. Jak do tego doszło? Dlaczego (złe królestwo) zaatakowało Thessarion? Tak nagle? Po trwającym setki lat sojuszu. I co się stało z (najmniejsze słońce)? Czy to sprawka (złe królestwo)? Wszystko wydarzyło się tak szybko... Miliony pytań zdawały się zakrzątać głowę Cassiusa, odpowiedzi jednak nie nadchodziły. Z zamyślenia wyrwał go głośny dźwięk rogu.
 — Stać! Zająć szyk obronny! Przygotować się do salwy! — Wykrzykuje nagle głównodowodzący legatus znajdujący się w centralnej części linii, blisko Cassiusa.
