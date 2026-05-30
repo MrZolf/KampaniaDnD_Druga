@@ -3,6 +3,6 @@ title: Strona Główna
 publish: true
 ---
 
-# Dzień dobry
+# Dzień dobry :)
 
 Wybierz stronę z bocznego paska lub skorzystaj z wyszukiwarki.
