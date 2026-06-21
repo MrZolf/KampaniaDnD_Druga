@@ -1,0 +1,13 @@
+Nad [[Tellus|Tellusem]] nieustannie świecą trzy słońca: Primus, Veridius oraz Tenebrius. Zgodnie z naukami [[Imperium Solis Aeterno]], dwa pierwsze zostały stworzone przez [[Gordianus Quintus|Gordianusa Quintusa]] podczas aktu stworzenia świata, natomiast Tenebrius powstał po zakończeniu Pierwszej Wojny jako ostatnie dzieło imperatora. Nad kontynentem nigdy nie zapada całkowita noc. Światło jednego z trzech słońc zawsze pozostaje widoczne na niebie.
+##### Primus
+Primus jest największym z trzech słońc. Jego dominacja na niebie wyznacza porę ciepłą, podczas której temperatury są wyższe, a warunki sprzyjają wzrostowi większości upraw. W czasie panowania Primusa, Veridius pozostaje widoczny jako mniejsze światło na niebie.
+##### Veridius
+Veridius jest drugim co do wielkości słońcem Tellusa. Jego dominacja wyznacza porę chłodną, podczas której temperatury spadają. W czasie panowania Veridiusa Primus pozostaje widoczny jako mniejsze światło na niebie.
+##### Tenebrius
+Tenebrius jest najmniejszym z trzech słońc. Podczas gdy Primus i Veridius na przemian dominują na niebie, Tenebrius pozostaje widoczny przez cały rok. Jego światło jest słabsze od światła dwóch większych słońc, lecz wystarcza, aby rozproszyć mrok. Szczególne znaczenie Tenebrius zyskuje podczas przejścia pomiędzy dniem Primusa, a Veridiusa. Wówczas przez kilka godzin stanowi jedyne słońce widoczne na niebie i samodzielnie oświetla świat.
+## Dni tenebryjskie
+Od czasu do czasu na niebie pozostaje widoczne wyłącznie Tenebrius. Okresy te nazywane są dniami tenebryjskimi. Ich występowanie nie podlega prostym regułom i od wieków stanowi przedmiot obserwacji astronomów oraz kapłanów. Dni tenebryjskie zdarzają się częściej podczas panowania Veridiusa niż Primusa, jednak ich dokładne nadejście trudno przewidzieć. Pojedynczy dzień tenebryjski może trwać od jednego do nawet trzech dni. Zazwyczaj występują mniej więcej raz w miesiącu, choć długość przerw pomiędzy nimi bywa zmienna.
+## Znaczenie gospodarcze
+Dominacja Primusa lub Veridiusa wyznacza rytm roku i decyduje o terminach siewów, zbiorów oraz innych prac rolniczych. Rolnicy dostosowują swoje działania do aktualnej pory roku, kierując się wielowiekowymi kalendarzami i obserwacjami nieba.
+## Znaczenie religijne
+Dni tenebryjskie należą do najważniejszych świąt religijnych Imperium Solis Aeterno. Są uznawane są za dni wolne od pracy, podczas których wstrzymuje się roboty polowe oraz wiele codziennych obowiązków. Są one pamiątką po poświęceniu Gordianusa Quintusa, który po odniesieniu rany stworzył Tenebriusa, aby ochronić Tellus przed powrotem ciemności. W czasie dni tenebryjskich odbywają się modlitwy, procesje oraz uroczystości ku czci imperatora.

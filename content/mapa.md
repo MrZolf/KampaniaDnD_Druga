@@ -1,5 +1,5 @@
 ---
-title: Mapa Świata
+title: Mapa Tellusa
 ---
 
 <iframe

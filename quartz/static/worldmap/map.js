@@ -21,7 +21,7 @@ const bounds = [
 // OBRAZ MAPY
 // ==========================
 L.imageOverlay(
-    'assets/tellusmap.png',
+    'assets/tellusmap.webp',
     bounds
 ).addTo(map);
 

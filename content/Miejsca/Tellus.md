@@ -1,0 +1,3 @@
+**Tellus** - jedyny znany kontynent świata. Ze wszystkich stron otaczają go wody oceanu [[Lucentis]]. Północne granice poznanego świata wyznacza rozległa pustynia [[Aurea]], której znaczne obszary pozostają niezbadane. Ogranicza ona dalszą eksplorację kontynentu i stanowi naturalną granicę znanego świata. Całość znanych ziem kontynentu znajduje się pod panowaniem [[Imperium Solis Aeterno]], z wyjątkiem wyspy [[Hvozd]], położonej u południowo-wschodnich wybrzeży Tellusu. Klimat kontynentu jest zróżnicowany. Na północy występują obszary pustynne związane z regionem Aurei, centralne części cechują się klimatem umiarkowanym, natomiast najbardziej wysunięte na południe tereny charakteryzują się warunkami tundrowymi. 
+
+Określeniem Tellus określa się też cały znany świat.
