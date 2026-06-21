@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Waterdeep",
+        "x": 3400,
+        "y": 1700,
+        "url": "/waterdeep"
+    },
+    {
+        "name": "Neverwinter",
+        "x": 2800,
+        "y": 1200,
+        "url": "/neverwinter"
+    },
+    {
+        "name": "Baldur's Gate",
+        "x": 3000,
+        "y": 2600,
+        "url": "/baldurs-gate"
+    }
+]
