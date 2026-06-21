@@ -1,20 +1,14 @@
 [
     {
-        "name": "Waterdeep",
-        "x": 3400,
-        "y": 1700,
-        "url": "/waterdeep"
+        "name": "Wyspa Hvozd",
+        "x": 4180,
+        "y": 2540,
+        "url": "/Miejsca/Hvozd"
     },
     {
-        "name": "Neverwinter",
-        "x": 2800,
-        "y": 1200,
-        "url": "/neverwinter"
-    },
-    {
-        "name": "Baldur's Gate",
-        "x": 3000,
-        "y": 2600,
-        "url": "/baldurs-gate"
+        "name": "Ordo Arcanum",
+        "x": 2328,
+        "y": 2248,
+        "url": "/Królestwa/Ordo-Arcanum"
     }
 ]
