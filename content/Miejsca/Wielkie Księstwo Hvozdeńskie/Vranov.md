@@ -1,0 +1,1 @@
+**Vranov** - wieś w [[Wielkie Księstwo Hvozdeńskie|Hvozdenii]]

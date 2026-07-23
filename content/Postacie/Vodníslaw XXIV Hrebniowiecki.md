@@ -1,0 +1,1 @@
+**Vodníslaw XXIV Hrebniowiecki** - Wielki Książę [[Wielkie Księstwo Hvozdeńskie|Wielkiego Księstwa Hvozdeńskiego]]. Jest członkiem dynastii Hrebniowieckiej, która według hvozdeńskiej tradycji wywodzi się od boskich założycieli świata, [[Vodník Hrebniowiecki i Libusza|Vodníka Hrebniowieckiego i Libuszy]].

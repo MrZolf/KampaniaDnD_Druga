@@ -1,0 +1,2 @@
+wg ordo arcanum które kontroluje całą magię w królestwie magia wywodzi się bezpośrednio od  nieśmiertelnego imperatora który nasyca kazdego kogo uważa godnym cząstką swojej boskości aby umożliwić mu władanie magią.
+## Zakazana Magia

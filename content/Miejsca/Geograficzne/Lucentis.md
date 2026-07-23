@@ -1,0 +1,1 @@
+**Lucentis** - ocean okalający [[Tellus]]. Wyróznia się Lucentis Wschodni, Zachodni i Południowy.

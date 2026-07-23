@@ -1,0 +1,1 @@
+**Kylgor** - jest siedzibą władz [[Ordo Arcanum]], dworem [[Najwyższy Pontiff|Najwyższego Pontiffa]] oraz najważniejszym ośrodkiem edukacji magicznej w regionie. Miasto-twierdza położone jest w centralnej części [[Catena Telluris|Caten]] i mieści najbardziej prestiżową oraz najbardziej poważaną uczelnię magii w całym Ordo Arcanum. 

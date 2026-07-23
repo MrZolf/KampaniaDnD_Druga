@@ -1,0 +1,1 @@
+**Caelite** - humanoidalna rasa uważana w [[Imperium Solis Aeterno]] za bezpośrednich potomków [[Gordianus Quintus|Gordianusa Quintusa]].

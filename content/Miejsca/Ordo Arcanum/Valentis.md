@@ -1,0 +1,1 @@
+**Valentis** - jest największym miastem [[Ordo Arcanum]] oraz głównym centrum handlu i kultury niskiej regionu. Położne w delcie rzeki [[Duża Rzeka]] i połączone jest z [[Thessarion|Thessarionem]] dzięki [[Most Stu Pokoleń|Mostowi Stu Pokoleń]].

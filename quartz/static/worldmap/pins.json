@@ -3,12 +3,24 @@
         "name": "Wyspa Hvozd",
         "x": 4180,
         "y": 2540,
-        "url": "/Miejsca/Hvozd"
+        "url": "/Miejsca/Geograficzne/Hvozd"
     },
     {
-        "name": "Ordo Arcanum",
-        "x": 2328,
-        "y": 2248,
-        "url": "/Królestwa/Ordo-Arcanum"
+        "name": "Ostrá Hora",
+        "x": 4028,
+        "y": 2308,
+        "url": "/Miejsca/Wielkie-Księstwo-Hvozdeńskie/Ostrá-Hora"
+    },
+	{
+        "name": "Kamienný Hrad",
+        "x": 4328,
+        "y": 3300,
+        "url": "/Miejsca/Wielkie-Księstwo-Hvozdeńskie/Kamienný-Hrad"
+    },
+	{
+        "name": "Zahráda",
+        "x": 4141,
+        "y": 3069,
+        "url": "/Miejsca/Wielkie-Księstwo-Hvozdeńskie/Zahráda"
     }
 ]

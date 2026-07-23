@@ -1,0 +1,1 @@
+**Kamienný Hrad** - najbardziej wysunięte na północ oraz drugie największe pod względem ludności miasto w [[Wielkie Księstwo Hvozdeńskie|Hvozdenii]]. Na plażach przy Kamienným Hradzie miała miejsce największa bitwa [[Wielkie Księstwo Hvozdeńskie#Wielka Wojna|Wielkiej Wojny]].

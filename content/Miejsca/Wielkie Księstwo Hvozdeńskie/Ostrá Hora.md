@@ -1,0 +1,1 @@
+**Ostrá Hora** - wieś w [[Wielkie Księstwo Hvozdeńskie|Hvozdenii]]
