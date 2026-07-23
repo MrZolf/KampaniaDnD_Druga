@@ -1,0 +1,1 @@
+**Most Stu Pokoleń** - most łączący [[Thessarion]] z [[Valentis]]. Jego budowa zaczęła się około roku 500, a zakończyła się około 2000 lat później. Jest długi na 15 mil, a jego szerokość wacha się od 30 do 60 metrów. 

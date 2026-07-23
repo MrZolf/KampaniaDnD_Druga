@@ -1,0 +1,1 @@
+**Aurelion** - obecna stolica [[Imperium Solis Aeterno]].

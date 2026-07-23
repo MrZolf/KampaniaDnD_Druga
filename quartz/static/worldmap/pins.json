@@ -1,8 +1,8 @@
 [
     {
         "name": "Wyspa Hvozd",
-        "x": 4180,
-        "y": 2540,
+		"x": 4268,
+		"y": 2884,
         "url": "/KampaniaDnD_Druga/Miejsca/Geograficzne/Hvozd"
     },
     {
@@ -22,5 +22,65 @@
         "x": 4141,
         "y": 3069,
         "url": "/KampaniaDnD_Druga/Miejsca/Wielkie-Księstwo-Hvozdeńskie/Zahráda"
-    }
+    },
+	{
+        "name": "Vranov",
+        "x": 3998,
+        "y": 2650,
+        "url": "/KampaniaDnD_Druga/Miejsca/Wielkie-Księstwo-Hvozdeńskie/Vranov"
+    },
+	{
+        "name": "Aurea",
+        "x": 2038,
+        "y": 6404,
+        "url": "/KampaniaDnD_Druga/Miejsca/Geograficzne/Aurea"
+    },
+	{
+        "name": "Pierwsze Drzewo",
+        "x": 1952,
+        "y": 5862,
+        "url": "/KampaniaDnD_Druga/Miejsca/Geograficzne/Pierwsze-Drzewo"
+    },
+	{
+        "name": "Catena Telluris",
+        "x": 988,
+        "y": 3904,
+        "url": "/KampaniaDnD_Druga/Miejsca/Geograficzne/Catena-Telluris"
+    },
+    {
+        "name": "Kylgor",
+        "x": 1176,
+        "y": 3220,
+        "url": "/KampaniaDnD_Druga/Miejsca/Ordo-Arcanum/Kylgor"
+    },
+	{
+        "name": "Aurelion",
+        "x": 2451,
+        "y": 4433,
+        "url": "/KampaniaDnD_Druga/Miejsca/Imperium-Solis-Aeterno/Aurelion"
+    },
+	{
+        "name": "Heliodor",
+        "x": 2904,
+        "y": 4959,
+        "url": "/KampaniaDnD_Druga/Miejsca/Imperium-Solis-Aeterno/Heliodor"
+    },
+	{
+        "name": "Thessarion",
+        "x": 3850,
+        "y": 3821,
+        "url": "/KampaniaDnD_Druga/Miejsca/Imperium-Solis-Aeterno/Thessarion"
+    },
+	{
+        "name": "Most Stu Pokoleń",
+        "x": 3854,
+        "y": 3760,
+        "url": "/KampaniaDnD_Druga/Miejsca/Imperium-Solis-Aeterno/Most-Stu-Pokoleń"
+    },
+	{
+        "name": "Valentis",
+        "x": 3843,
+        "y": 3628,
+        "url": "/KampaniaDnD_Druga/Miejsca/Ordo-Arcanum/Valentis"
+    }	
 ]
