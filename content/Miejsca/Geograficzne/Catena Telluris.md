@@ -1,1 +1,1 @@
-**Catena Telluris** pot. Catena - ogromny łańcuch górski ciągnący się po zachodnim wybrzeżu [[Tellus|Tellusa]].
+**Catena Telluris** (pot. **Catena**) - ogromny łańcuch górski ciągnący się po zachodnim wybrzeżu [[Tellus|Tellusa]].
