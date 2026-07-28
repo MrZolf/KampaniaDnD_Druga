@@ -88,5 +88,17 @@
         "x": 2696,
         "y": 3280,
         "url": "/KampaniaDnD_Druga/Miejsca/Geograficzne/Umbrafons"
+    },
+	    {
+        "name": "Pratelia",
+        "x": 3132,
+        "y": 4596,
+        "url": "/KampaniaDnD_Druga/Miejsca/Imperium-Solis-Aeterno/Pratelia"
+    },
+	    {
+        "name": "Latus",
+        "x": 3022,
+        "y": 4672,
+        "url": "/KampaniaDnD_Druga/Miejsca/Geograficzne/Latus"
     }
 ]
