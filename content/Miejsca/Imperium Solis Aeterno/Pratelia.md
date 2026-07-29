@@ -1,1 +1,1 @@
-**Pratelia** - wieś w [[Imperium Solis Aeterno]].
+**Pratelia** - małe miasto w [[Imperium Solis Aeterno]].

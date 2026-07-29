@@ -1,1 +1,1 @@
-**Morze Paramejskie** - największa zatoka na [[Tellus|Tellusie]]. 
+**Morze Paramejskie** - największa zatoka na [[Tellus|Tellusie]].

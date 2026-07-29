@@ -45,11 +45,26 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Ostatnio zmienione",
+        limit: 8,
+        showTags: false,
+        filter: (f) => f.slug !== "index",
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
