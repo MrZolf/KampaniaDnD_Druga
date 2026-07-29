@@ -1,1 +1,1 @@
-**Latus** - rzeka wpadająca do [[zatoki]]. U ujścia Latusu leży [[Heliodor]].
+**Latus** - rzeka wpadająca do [[Morze Paramejskie|Morza Paramejskiego]]. U w górach nieopodal źródeł Latusu leży [[Heliodor]].

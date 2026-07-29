@@ -26,12 +26,10 @@ Jeśli istota otrzyma z jednego źródła obrażenia większe lub równe połowi
 
 ### Czary i zwoje
 Czar ze zwoju może zostać rzucony niezależnie od klasy i poziomu trudności czaru. Jeżeli czar jest z innej klasy niż postać rzucającego i/lub jest wyższego poziomu niż komórki czaru rzucającego musi on wykonać test umiejętności podczas rzucania czaru (ST zależny od DM), w przypadku niepowodzenia czar nie zostaje rzucony, a zwój jest stracony.
-
-
 ### Obrażenia od upadku 
 Obrażenia od upadku są obliczane w sposób następujący: 1k4 za każde spadnięte 5 ft. do maksymalnie 160k4.
 
-|**Upadek z...**|**Wysokość**|**Ilość k4**|**Śr. obrażenia**|
+|Upadek z...|Wysokość|Ilość k4|Śr. obrażenia|
 |---|---|---|---|
 |Dach małej chatki|10 ft. ~ 3 m|2k4|5|
 |Pierwsze piętro|20 ft. ~ 6 m|4k4|10|

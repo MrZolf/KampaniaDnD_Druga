@@ -1,2 +1,3 @@
-wg ordo arcanum które kontroluje całą magię w królestwie magia wywodzi się bezpośrednio od  nieśmiertelnego imperatora który nasyca kazdego kogo uważa godnym cząstką swojej boskości aby umożliwić mu władanie magią.
-## Zakazana Magia
+**Magia** - według oficjalnej doktryny [[Imperium Solis Aeterno]] pochodzi ona od [[Gordianus Quintus|Gordianusa Quintusa]], który obdarza wybrane istoty cząstką własnej boskiej mocy. Nauczaniem i badaniem magii zajmuje się przede wszystkim [[Ordo Arcanum]], posiadające niemal całkowity monopol na legalne kształcenie magusów. Najważniejsze ośrodki nauki znajdują się na ziemiach Ordo, przede wszystkim w [[Kylgor|Kylgorze]].
+## Nowi i Starzy Bogowie
+Starzy i Nowi Bogowie to zbiorcze określenie istot czczonych jako bóstwa poza oficjalną religią [[Imperium Solis Aeterno]]. Ich natura, pochodzenie oraz rzeczywisty zakres mocy pozostają nieznane, a przekazy na ich temat są często sprzeczne. Imperialna doktryna odrzuca ich boskość, uznając [[Gordianus Quintus|Gordianusa Quintusa]] za jedynego prawdziwego boga.

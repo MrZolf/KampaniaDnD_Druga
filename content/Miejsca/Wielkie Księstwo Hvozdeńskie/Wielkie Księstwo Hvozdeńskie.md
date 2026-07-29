@@ -7,7 +7,7 @@ Według hvozdeńskich kronik państwo zostało założone około 2500 lat temu p
 #### Wielka Wojna
 Istotnym wydarzeniem w historii kraju była Wielka Wojna. Konflikt pomiędzy Wielkim Księstwem Hvozdeńskim, a [[Imperium Solis Aeterno]] rozpoczał w roku imperialnym 5123 i trwał 78 lat. Ostatecznie Hvozdenia odniosła zwycięstwo dzięki przewadze na morzu. Hvozdeńska flota rozbijała kolejne armady Imperium, uniemożliwiając skuteczną inwazję. Największa bitwą lądowa wojny było lądowanie pod [[Kamienný Hrad|Kamiennym Hradem]] w która trwała 45 dni. Pomimo zwycięstwa Hvozdenii Imperium utrzymuje w swojej propagandzie, że wojna zakończyła się zwycięstwem sił Imperatora. W Imperium Hvozdenia jest uznawana jako Wolna Wyspa Hvozd - region niezależny pod protektoratem Imperium, a każdy mieszkaniec wyspy jest traktowany jako obywatel Imperium.
 ## Ustrój
-Hvozdenia jest monarchią dziedziczną. Na czele księstwa państwa stoi Wielki Książę Hvozdu. Obecnym władcą jest [[Vodníslaw XXIV Hrebniowiecki]].
+Hvozdenia jest monarchią dziedziczną. Na czele księstwa państwa stoi Wielki Książę Hvozdu. Obecnym władcą jest [[Vodníslav XXIV Hrebniowiecki]].
 ## Polityka zagraniczna
 Podstawą polityki zagranicznej Hvozdenii jest zasada wiecznej neutralności. Od momentu założenia państwa kolejne pokolenia władców prowadzą politykę nieingerencji w sprawy innych państw. Hvozdenia nie uczestniczy w zagranicznych wojnach, nie zawiera sojuszy wojskowych i unika angażowania się w konflikty poza własnymi granicami. Jednocześnie kraj utrzymuje rozwinięte kontakty handlowe z odległymi zamorskimi krainami.
 ## Społeczeństwo
