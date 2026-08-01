@@ -48,8 +48,8 @@ export const defaultContentPageLayout: PageLayout = {
   afterBody: [
     Component.ConditionalRender({
       component: Component.RecentNotes({
-        title: "Ostatnio zmienione",
-        limit: 8,
+        title: "Ostatnio dodane lub zmodyfikowane artykuły:",
+        limit: 10,
         showTags: false,
         filter: (f) => f.slug !== "index",
       }),

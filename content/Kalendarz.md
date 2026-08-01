@@ -1,4 +1,4 @@
-Kalendarz Imperialny obowiązujący w [[Imperium Solis Aeterno]] opiera się na cyklu dwóch pór roku, wyznaczanych przez dominację słońc [[Astronomia#Primus]] oraz [[Astronomia#Veridius]]. Każda z pór roku liczy 218 dni, co daje łącznie 436 dni w roku słonecznym. Ewentualne niezgodności wynikające z obserwacji cykli niebieskich są korygowane przez [[Imperialna Gildia Astrologów|Imperialną Gildię Astrologów]], która wprowadza stosowne wyrównania do kalendarza.
+Kalendarz Imperialny obowiązujący w [[Imperium Solis Aeterno]] opiera się na cyklu dwóch pór roku, wyznaczanych przez dominację słońc [[Astronomia#Primus|Primusa]] oraz [[Astronomia#Veridius|Veriduisa]]. Każda z pór roku liczy 218 dni, co daje łącznie 436 dni w roku słonecznym. Ewentualne niezgodności wynikające z obserwacji cykli niebieskich są korygowane przez [[Imperialna Gildia Astrologów|Imperialną Gildię Astrologów]], która wprowadza stosowne wyrównania do kalendarza.
 ## Struktura roku
 Rok dzieli się na dwie pory:
 - I pora – okres dominacji Primusa
@@ -12,7 +12,7 @@ Przykłady:
 - *56. dzień II pory 5545 roku imperialnego (56.II.5545)*
 - *198. dzień I pory 5521 roku imperialnego (198.I.5521)*
 ## Dni tenebryjskie
-Okresy, w których widoczny jest wyłącznie [[Astronomia#Tenebrius]], nie są wliczane do standardowego systemu kalendarzowego. Nie traktuje się ich jako zwykłych dni, lecz jako osobne jednostki czasu. Są one numerowane oddzielnie jako dni tenebryjskie.
+Okresy, w których widoczny jest wyłącznie [[Astronomia#Tenebrius|Tenebrius]], nie są wliczane do standardowego systemu kalendarzowego. Nie traktuje się ich jako zwykłych dni, lecz jako osobne jednostki czasu. Są one numerowane oddzielnie jako dni tenebryjskie.
 Przykład zapisu:
 - *9. dzień tenebryjski II pory 5545 roku imperialnego (9T.II.5545)*
 ## Pomiar czasu dobowego
