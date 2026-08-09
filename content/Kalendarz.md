@@ -11,9 +11,8 @@ Standardowy zapis daty obejmuje dzień, oznaczenie pory oraz rok imperialny.
 Przykłady:
 - *56. dzień II pory 5545 roku imperialnego (56.II.5545)*
 - *198. dzień I pory 5521 roku imperialnego (198.I.5521)*
-## Dni tenebryjskie
-Okresy, w których widoczny jest wyłącznie [[Astronomia#Tenebrius|Tenebrius]], nie są wliczane do standardowego systemu kalendarzowego. Nie traktuje się ich jako zwykłych dni, lecz jako osobne jednostki czasu. Są one numerowane oddzielnie jako dni tenebryjskie.
-Przykład zapisu:
-- *9. dzień tenebryjski II pory 5545 roku imperialnego (9T.II.5545)*
+## Dni tenebryjskie lub okres tenebryjski
+Okresy, w których widoczny jest wyłącznie [[Astronomia#Tenebrius|Tenebrius]], są oznaczane w sposób następujący:
+- *9. dzień  tenebryjski II pory 5545 roku imperialnego (9T.II.5545)*
 ## Pomiar czasu dobowego
 Godzina w systemie Imperialnym nie jest odmierzana mechanicznie, lecz określana na podstawie położenia słońca na niebie. Wysokość słońc względem horyzontu stanowi podstawę podziału dnia na jednostki czasu.

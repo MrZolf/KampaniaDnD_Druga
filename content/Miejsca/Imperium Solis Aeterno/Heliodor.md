@@ -1,1 +1,1 @@
-**Heliodor** - miasto w [[Imperium Solis Aeterno]].
+**Heliodor** - drugie największe miasto w [[Imperium Solis Aeterno]].
